@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupp
  * 修改人：xdc
  * 修改时间：2018-11-09 17:50
  */
-@Configuration
+//@Configuration
 public class AutoSuffix extends WebMvcConfigurationSupport {
 
     @Override
