@@ -16,8 +16,8 @@ spring:
     expose-spring-macro-helpers: false
     allow-request-override: false
     request-context-attribute: req  #req访问request
-#    suffix: .html  #后缀名 不写默认是.ftl
-    suffix: .ftl  #后缀名
+    suffix: .html  #后缀名 不写默认是.ftl
+#    suffix: .ftl  #后缀名
     content-type: text/html
     enabled: true
     cache: false #缓存配置
